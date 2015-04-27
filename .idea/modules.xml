@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QQ_SlidingMenu.iml" filepath="$PROJECT_DIR$/QQ_SlidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliding_panel/sliding_panel.iml" filepath="$PROJECT_DIR$/sliding_panel/sliding_panel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water_fall_listview/water_fall_listview.iml" filepath="$PROJECT_DIR$/water_fall_listview/water_fall_listview.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,1 @@
+include ':app', ':sliding_panel', ':library', ':water_fall_listview'
